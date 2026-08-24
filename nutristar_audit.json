@@ -1,0 +1,366 @@
+{
+  "header": {
+    "classes": "header bg-theme-bg text-theme-text has-motion search-is-collapsed",
+    "hasLogo": true,
+    "hasSearch": true,
+    "hasCart": false,
+    "navLinks": [
+      "Brands",
+      "Brands",
+      "All",
+      "Ace Blend",
+      "Alpino",
+      "Applied Nutrition",
+      "AS-IT-IS",
+      "Avvatar Sports Nutrition",
+      "Benefiber",
+      "BE Wellness"
+    ]
+  },
+  "hero": {
+    "classes": "shopify-section",
+    "hasVideo": false,
+    "images": [
+      "https://nutristar.in/cdn/shop/files/Desktop_view_2__jpg.jpg?v=1783058790&width=1880",
+      "https://nutristar.in/cdn/shop/files/Mobile_view_jpg.jpg?v=1783058789&width=720",
+      "https://nutristar.in/cdn/shop/files/Nutristar__march__03_91d7d1d8-d758-465e-8306-3af70a7a7d35.webp?v=1784181098&width=1880"
+    ],
+    "isCarousel": true,
+    "htmlPreview": "<style>\n  .main-home-banner-in-the-home-nutri{  & > .slidekkkk:not(:first-child) { display: none; }}\n</style>\n<section>\n  <div class=\"main-home-bannerthe-home-nutri\">\n    <div class=\"container\">\n     "
+  },
+  "sections": [
+    {
+      "index": 0,
+      "classes": "shopify-section shopify-section-group-header-group cc-scrolling-banner",
+      "heading": null,
+      "productCardsCount": 0,
+      "hasCarousel": false,
+      "imagesCount": 80,
+      "htmlPreview": "<style data-shopify=\"\">#template--22768725328166__scrolling_banner_xxYK7c .scrolling-banner__item{pa"
+    },
+    {
+      "index": 2,
+      "classes": "shopify-section",
+      "heading": null,
+      "productCardsCount": 0,
+      "hasCarousel": true,
+      "imagesCount": 22,
+      "htmlPreview": "<style>\n  .main-home-banner-in-the-home-nutri{  & > .slidekkkk:not(:first-child) { display: none; }}"
+    },
+    {
+      "index": 3,
+      "classes": "",
+      "heading": null,
+      "productCardsCount": 0,
+      "hasCarousel": true,
+      "imagesCount": 22,
+      "htmlPreview": "\n  <div class=\"main-home-bannerthe-home-nutri\">\n    <div class=\"container\">\n      <div class=\"main-h"
+    },
+    {
+      "index": 4,
+      "classes": "shopify-section",
+      "heading": "Seasons Bestsellers!!",
+      "productCardsCount": 79,
+      "hasCarousel": true,
+      "imagesCount": 229,
+      "htmlPreview": "<style> .testing-hide > .slidekkkk:not(:first-child) {\n  display: flex !important;\n}\n</style>\n<link "
+    },
+    {
+      "index": 5,
+      "classes": "shopify-section",
+      "heading": null,
+      "productCardsCount": 0,
+      "hasCarousel": true,
+      "imagesCount": 2,
+      "htmlPreview": "<style>\n  .main-home-banner-in-the-home-nutri{  & > .slidekkkk:not(:first-child) { display: none; }}"
+    },
+    {
+      "index": 6,
+      "classes": "",
+      "heading": null,
+      "productCardsCount": 0,
+      "hasCarousel": true,
+      "imagesCount": 2,
+      "htmlPreview": "\n  <div class=\"main-home-bannerthe-home-nutri\">\n    <div class=\"container\">\n      <div class=\"main-h"
+    },
+    {
+      "index": 7,
+      "classes": "shopify-section",
+      "heading": "SHOP BY CATEGORY",
+      "productCardsCount": 12,
+      "hasCarousel": false,
+      "imagesCount": 12,
+      "htmlPreview": "<section class=\"home-category-list\">\n  <div class=\"container\">\n    <h4 class=\"head_h4tag\">SHOP BY CA"
+    },
+    {
+      "index": 8,
+      "classes": "home-category-list",
+      "heading": "SHOP BY CATEGORY",
+      "productCardsCount": 12,
+      "hasCarousel": false,
+      "imagesCount": 12,
+      "htmlPreview": "\n  <div class=\"container\">\n    <h4 class=\"head_h4tag\">SHOP BY CATEGORY</h4>\n\n    <div class=\"block_m"
+    },
+    {
+      "index": 9,
+      "classes": "shopify-section cc-shoppable-image",
+      "heading": null,
+      "productCardsCount": 0,
+      "hasCarousel": false,
+      "imagesCount": 2,
+      "htmlPreview": "<link rel=\"stylesheet\" href=\"//nutristar.in/cdn/shop/t/2/assets/hotspots-image.aio.min.css?v=5125133"
+    },
+    {
+      "index": 10,
+      "classes": "container",
+      "heading": null,
+      "productCardsCount": 0,
+      "hasCarousel": false,
+      "imagesCount": 2,
+      "htmlPreview": "\n<div class=\"\" id=\"template--22742776643878__shoppable_image_jdLNWx\">\n  <div class=\"section\">\n    <d"
+    },
+    {
+      "index": 13,
+      "classes": "shopify-section cc-apps section",
+      "heading": null,
+      "productCardsCount": 0,
+      "hasCarousel": true,
+      "imagesCount": 2,
+      "htmlPreview": "<div class=\"container\"><div id=\"shopify-block-ASUdTSjVpcy9Yb285T__quinn_shoppable_videos_reels_app_c"
+    },
+    {
+      "index": 14,
+      "classes": "shopify-section cc-featured-collection",
+      "heading": null,
+      "productCardsCount": 10,
+      "hasCarousel": true,
+      "imagesCount": 33,
+      "htmlPreview": "  \n<style> \n\n.slider__item{background:white;border-radius:15px;padding:15px;}\n.product-label-contain"
+    },
+    {
+      "index": 15,
+      "classes": "shopify-section",
+      "heading": null,
+      "productCardsCount": 0,
+      "hasCarousel": true,
+      "imagesCount": 7,
+      "htmlPreview": "<style>\nhomepage-popular-Brands99 .slick-slide {\n  transition: transform 0.6s ease-in-out; /* Smooth"
+    },
+    {
+      "index": 16,
+      "classes": "",
+      "heading": null,
+      "productCardsCount": 0,
+      "hasCarousel": true,
+      "imagesCount": 7,
+      "htmlPreview": "\n  <div class=\"container\">\n    <div class=\"homepage-popular-Brands99\">\n      <div class=\"homepage-po"
+    },
+    {
+      "index": 17,
+      "classes": "shopify-section",
+      "heading": "Deals That Deliver",
+      "productCardsCount": 0,
+      "hasCarousel": true,
+      "imagesCount": 3,
+      "htmlPreview": "<section>\n  <div class=\"main-home-nutristar-uyuuu\">\n  <div class=\"container\">\n    <div class=\"nutris"
+    },
+    {
+      "index": 18,
+      "classes": "",
+      "heading": "Deals That Deliver",
+      "productCardsCount": 0,
+      "hasCarousel": true,
+      "imagesCount": 3,
+      "htmlPreview": "\n  <div class=\"main-home-nutristar-uyuuu\">\n  <div class=\"container\">\n    <div class=\"nutristar-offer"
+    },
+    {
+      "index": 19,
+      "classes": "shopify-section",
+      "heading": "Newly Launched Brands",
+      "productCardsCount": 0,
+      "hasCarousel": true,
+      "imagesCount": 24,
+      "htmlPreview": "<style>\nhomepage-popular-Brands99 .slick-slide {\n  transition: transform 0.6s ease-in-out; /* Smooth"
+    },
+    {
+      "index": 20,
+      "classes": "",
+      "heading": "Newly Launched Brands",
+      "productCardsCount": 0,
+      "hasCarousel": true,
+      "imagesCount": 24,
+      "htmlPreview": "\n  <div class=\"container\">\n    <div class=\"homepage-popular-Brands99\">\n      <div class=\"homepage-po"
+    },
+    {
+      "index": 21,
+      "classes": "shopify-section",
+      "heading": "Big Savings on Wellness",
+      "productCardsCount": 97,
+      "hasCarousel": true,
+      "imagesCount": 196,
+      "htmlPreview": "<style> .testing-hide > .slidekkkk:not(:first-child) {\n  display: flex !important;\n}\n</style>\n\n  <di"
+    },
+    {
+      "index": 22,
+      "classes": "shopify-section",
+      "heading": "Big Savings All Season!!",
+      "productCardsCount": 0,
+      "hasCarousel": true,
+      "imagesCount": 5,
+      "htmlPreview": "<section class=\"homepage-On-Ouer-Radar deal_of_the_day\">\n  <div class=\"container\">\n    <div class=\"h"
+    },
+    {
+      "index": 23,
+      "classes": "homepage-On-Ouer-Radar deal_of_the_day",
+      "heading": "Big Savings All Season!!",
+      "productCardsCount": 0,
+      "hasCarousel": true,
+      "imagesCount": 5,
+      "htmlPreview": "\n  <div class=\"container\">\n    <div class=\"homepage-On-Ouer-header\">\n      <h2>Big Savings All Seaso"
+    },
+    {
+      "index": 25,
+      "classes": "shopify-section",
+      "heading": "New Launches!!",
+      "productCardsCount": 13,
+      "hasCarousel": true,
+      "imagesCount": 34,
+      "htmlPreview": "<style> .testing-hide > .slidekkkk:not(:first-child) {\n  display: flex !important;\n}\n</style>\n<link "
+    },
+    {
+      "index": 26,
+      "classes": "shopify-section",
+      "heading": "Next-Gen Health Brands!!",
+      "productCardsCount": 0,
+      "hasCarousel": true,
+      "imagesCount": 3,
+      "htmlPreview": "<section>\n  <div class=\"main-home-nutristar-uyuuu\">\n  <div class=\"container\">\n    <div class=\"nutris"
+    },
+    {
+      "index": 27,
+      "classes": "",
+      "heading": "Next-Gen Health Brands!!",
+      "productCardsCount": 0,
+      "hasCarousel": true,
+      "imagesCount": 3,
+      "htmlPreview": "\n  <div class=\"main-home-nutristar-uyuuu\">\n  <div class=\"container\">\n    <div class=\"nutristar-offer"
+    },
+    {
+      "index": 28,
+      "classes": "shopify-section",
+      "heading": "Healthy Snacking",
+      "productCardsCount": 0,
+      "hasCarousel": true,
+      "imagesCount": 11,
+      "htmlPreview": "<style>\nhomepage-popular-Brands99 .slick-slide {\n  transition: transform 0.6s ease-in-out; /* Smooth"
+    },
+    {
+      "index": 29,
+      "classes": "",
+      "heading": "Healthy Snacking",
+      "productCardsCount": 0,
+      "hasCarousel": true,
+      "imagesCount": 11,
+      "htmlPreview": "\n  <div class=\"container\">\n    <div class=\"homepage-popular-Brands99\">\n      <div class=\"homepage-po"
+    },
+    {
+      "index": 30,
+      "classes": "shopify-section cc-featured-collection",
+      "heading": null,
+      "productCardsCount": 14,
+      "hasCarousel": true,
+      "imagesCount": 41,
+      "htmlPreview": "<style>\n\n</style><link rel=\"stylesheet\" href=\"//nutristar.in/cdn/shop/t/2/assets/featured-collection"
+    },
+    {
+      "index": 31,
+      "classes": "shopify-section",
+      "heading": "popular Brands",
+      "productCardsCount": 0,
+      "hasCarousel": true,
+      "imagesCount": 16,
+      "htmlPreview": "<style>\nhomepage-popular-Brands99 .slick-slide {\n  transition: transform 0.6s ease-in-out; /* Smooth"
+    },
+    {
+      "index": 32,
+      "classes": "",
+      "heading": "popular Brands",
+      "productCardsCount": 0,
+      "hasCarousel": true,
+      "imagesCount": 16,
+      "htmlPreview": "\n  <div class=\"container\">\n    <div class=\"homepage-popular-Brands99\">\n      <div class=\"homepage-po"
+    },
+    {
+      "index": 33,
+      "classes": "shopify-section",
+      "heading": "NUTRISTAR EXCLUSIVES",
+      "productCardsCount": 0,
+      "hasCarousel": true,
+      "imagesCount": 3,
+      "htmlPreview": "<section>\n  <div class=\"main-home-nutristar-uyuuu\">\n  <div class=\"container\">\n    <div class=\"nutris"
+    },
+    {
+      "index": 34,
+      "classes": "",
+      "heading": "NUTRISTAR EXCLUSIVES",
+      "productCardsCount": 0,
+      "hasCarousel": true,
+      "imagesCount": 3,
+      "htmlPreview": "\n  <div class=\"main-home-nutristar-uyuuu\">\n  <div class=\"container\">\n    <div class=\"nutristar-offer"
+    },
+    {
+      "index": 35,
+      "classes": "shopify-section",
+      "heading": "Trending Brands",
+      "productCardsCount": 0,
+      "hasCarousel": true,
+      "imagesCount": 14,
+      "htmlPreview": "<section class=\"delss deal_of_the_day\">\n  <div class=\"container\">\n    <h4 class=\"deal_of_the_day_hea"
+    },
+    {
+      "index": 36,
+      "classes": "delss deal_of_the_day",
+      "heading": "Trending Brands",
+      "productCardsCount": 0,
+      "hasCarousel": true,
+      "imagesCount": 14,
+      "htmlPreview": "\n  <div class=\"container\">\n    <h4 class=\"deal_of_the_day_header\">Trending Brands</h4>\n\n    <carouse"
+    },
+    {
+      "index": 37,
+      "classes": "shopify-section",
+      "heading": null,
+      "productCardsCount": 0,
+      "hasCarousel": true,
+      "imagesCount": 2,
+      "htmlPreview": "<style>\n  .main-home-banner-in-the-home-nutri{  & > .slidekkkk:not(:first-child) { display: none; }}"
+    },
+    {
+      "index": 38,
+      "classes": "",
+      "heading": null,
+      "productCardsCount": 0,
+      "hasCarousel": true,
+      "imagesCount": 2,
+      "htmlPreview": "\n  <div class=\"main-home-bannerthe-home-nutri\">\n    <div class=\"container\">\n      <div class=\"main-h"
+    },
+    {
+      "index": 39,
+      "classes": "shopify-section cc-featured-blog",
+      "heading": "FEATURED BLOG",
+      "productCardsCount": 8,
+      "hasCarousel": true,
+      "imagesCount": 8,
+      "htmlPreview": "<style>\n  .showss-blogs .flex-auto{width:98% !important;}\n  .showss-blogs .link{color:#fff !importan"
+    },
+    {
+      "index": 40,
+      "classes": "showss-blogs",
+      "heading": "FEATURED BLOG",
+      "productCardsCount": 8,
+      "hasCarousel": true,
+      "imagesCount": 8,
+      "htmlPreview": "\n<div class=\"section\"><div class=\"container\">\n      <div class=\"section__header items-center flex fl"
+    }
+  ]
+}

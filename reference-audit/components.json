@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Header",
+    "pages": [
+      "ALL"
+    ],
+    "states": [
+      "Desktop",
+      "Mobile",
+      "Sticky",
+      "Hover",
+      "Menu Open"
+    ]
+  },
+  {
+    "name": "HeroCarousel",
+    "pages": [
+      "/"
+    ],
+    "states": [
+      "Desktop",
+      "Mobile",
+      "Autoplay",
+      "Drag"
+    ]
+  },
+  {
+    "name": "ProductCard",
+    "pages": [
+      "/",
+      "/collections/all"
+    ],
+    "states": [
+      "Default",
+      "Hover (Image Scale)"
+    ]
+  },
+  {
+    "name": "ProductGallery",
+    "pages": [
+      "/products/*"
+    ],
+    "states": [
+      "Desktop Zoom",
+      "Mobile Swipe",
+      "Thumbnail Click"
+    ]
+  }
+]

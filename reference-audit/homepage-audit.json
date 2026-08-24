@@ -1,0 +1,2222 @@
+{
+  "navLinks": [
+    {
+      "text": "Search",
+      "href": "https://nutristar.in/search"
+    },
+    {
+      "text": "Order History",
+      "href": "javascript:void(0);"
+    },
+    {
+      "text": "My Account",
+      "href": "https://nutristar.in/account"
+    },
+    {
+      "text": "0",
+      "href": "https://nutristar.in/account#wishlist"
+    },
+    {
+      "text": "Bag",
+      "href": ""
+    },
+    {
+      "text": "Log in",
+      "href": ""
+    },
+    {
+      "text": "My Orders",
+      "href": "https://nutristar.in/"
+    },
+    {
+      "text": "Authenticity",
+      "href": "https://nutristar.in/pages/authenticity"
+    },
+    {
+      "text": "Offers",
+      "href": "https://nutristar.in/pages/offers"
+    },
+    {
+      "text": "Support",
+      "href": "https://nutristar.in/pages/contact"
+    },
+    {
+      "text": "Brands",
+      "href": "https://nutristar.in/#"
+    },
+    {
+      "text": "Benefits/Concern",
+      "href": "https://nutristar.in/#"
+    },
+    {
+      "text": "Sports Nutrition",
+      "href": "https://nutristar.in/#"
+    },
+    {
+      "text": "Vitamins & Supplements",
+      "href": "https://nutristar.in/#"
+    },
+    {
+      "text": "Healthy Snacking",
+      "href": "https://nutristar.in/#"
+    },
+    {
+      "text": "Accessories",
+      "href": "https://nutristar.in/#"
+    }
+  ],
+  "sections": [
+    {
+      "index": 0,
+      "id": "shopify-section-template--22742776643878__main_home_banner_des_bRikMT",
+      "classes": "shopify-section",
+      "textSummary": "Previous Next"
+    },
+    {
+      "index": 1,
+      "id": "shopify-section-template--22742776643878__collection_tabs_ijRL9K",
+      "classes": "shopify-section",
+      "textSummary": "Seasons Bestsellers!! Proteins Gainers Creatines P"
+    },
+    {
+      "index": 2,
+      "id": "shopify-section-template--22742776643878__main_home_banner_des_wbXcfk",
+      "classes": "shopify-section",
+      "textSummary": ""
+    },
+    {
+      "index": 3,
+      "id": "shopify-section-template--22742776643878__home_category_list_yMKUL4",
+      "classes": "shopify-section",
+      "textSummary": "SHOP BY CATEGORY"
+    },
+    {
+      "index": 4,
+      "id": "shopify-section-template--22742776643878__shoppable_image_jdLNWx",
+      "classes": "shopify-section cc-shoppable-image",
+      "textSummary": "View details - Ripped Up Nutrition Next Gen Protei"
+    },
+    {
+      "index": 5,
+      "id": "shopify-section-template--22742776643878__influencer_edit_j4Y3n6",
+      "classes": "shopify-section",
+      "textSummary": "JOIN THE TRIBE"
+    },
+    {
+      "index": 6,
+      "id": "shopify-section-template--22742776643878__172304461630b1944c",
+      "classes": "shopify-section cc-apps section",
+      "textSummary": ""
+    },
+    {
+      "index": 7,
+      "id": "shopify-section-template--22742776643878__combine_count_dJz9Vi",
+      "classes": "shopify-section cc-featured-collection",
+      "textSummary": "Deal of the Week Days  :  Hours  :  Minutes  :  Se"
+    },
+    {
+      "index": 8,
+      "id": "shopify-section-template--22742776643878__homepage_popular_brands_RPN6gB",
+      "classes": "shopify-section",
+      "textSummary": ""
+    },
+    {
+      "index": 9,
+      "id": "shopify-section-template--22742776643878__homepage_nutristar_offers_bUfpKW",
+      "classes": "shopify-section",
+      "textSummary": "DEALS THAT DELIVER"
+    },
+    {
+      "index": 10,
+      "id": "shopify-section-template--22742776643878__new_poplar_F4EFbQ",
+      "classes": "shopify-section",
+      "textSummary": "NEWLY LAUNCHED BRANDS"
+    },
+    {
+      "index": 11,
+      "id": "shopify-section-template--22742776643878__second_collection_tab_apqtFE",
+      "classes": "shopify-section",
+      "textSummary": "BIG SAVINGS ON WELLNESS Multivitamins Omega 3 Biot"
+    },
+    {
+      "index": 12,
+      "id": "shopify-section-template--22742776643878__home_on_our_radar_RkJ4qf",
+      "classes": "shopify-section",
+      "textSummary": "BIG SAVINGS ALL SEASON!!"
+    },
+    {
+      "index": 13,
+      "id": "shopify-section-template--22742776643878__featured_collection_LVWAmq",
+      "classes": "shopify-section cc-featured-collection",
+      "textSummary": ""
+    },
+    {
+      "index": 14,
+      "id": "shopify-section-template--22742776643878__collection_tabs_Kp3dD9",
+      "classes": "shopify-section",
+      "textSummary": "NEW LAUNCHES!!      YourHappyLife Skin Capsules | "
+    },
+    {
+      "index": 15,
+      "id": "shopify-section-template--22742776643878__homepage_nutristar_offers_FYjgBF",
+      "classes": "shopify-section",
+      "textSummary": "NEXT-GEN HEALTH BRANDS!!"
+    },
+    {
+      "index": 16,
+      "id": "shopify-section-template--22742776643878__homepage_popular_brands_r6dirm",
+      "classes": "shopify-section",
+      "textSummary": "HEALTHY SNACKING"
+    },
+    {
+      "index": 17,
+      "id": "shopify-section-template--22742776643878__main_home_picture_aGQQmQ",
+      "classes": "shopify-section cc-featured-collection",
+      "textSummary": "     ProSupps Hyde Signature Pre-Workout | Dual Tu"
+    },
+    {
+      "index": 18,
+      "id": "shopify-section-template--22742776643878__homepage_popular_brands_QjGLJN",
+      "classes": "shopify-section",
+      "textSummary": "POPULAR BRANDS"
+    },
+    {
+      "index": 19,
+      "id": "shopify-section-template--22742776643878__homepage_nutristar_offers_3VYMAH",
+      "classes": "shopify-section",
+      "textSummary": "NUTRISTAR EXCLUSIVES"
+    },
+    {
+      "index": 20,
+      "id": "shopify-section-template--22742776643878__deal_of_the_day_dFNaUW",
+      "classes": "shopify-section",
+      "textSummary": "TRENDING BRANDS"
+    },
+    {
+      "index": 21,
+      "id": "shopify-section-template--22742776643878__main_home_banner_des_eaHGxJ",
+      "classes": "shopify-section",
+      "textSummary": ""
+    },
+    {
+      "index": 22,
+      "id": "shopify-section-template--22742776643878__bloghome_4hPLkw",
+      "classes": "shopify-section cc-featured-blog",
+      "textSummary": "FEATURED BLOG ZERO-CARB WHEY PROTEIN ISOLATE: BENE"
+    }
+  ],
+  "carousels": [
+    {
+      "classes": "main-home-banner-in-the-home-nutri slick-initialized slick-slider",
+      "slidesCount": 22
+    },
+    {
+      "classes": "carousel block",
+      "slidesCount": 10
+    },
+    {
+      "classes": "slider is-grabbable",
+      "slidesCount": 9
+    },
+    {
+      "classes": "slider__grid grid product-grid grid--2-col-tablet-down grid--4-col-desktop",
+      "slidesCount": 8
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "carousel block",
+      "slidesCount": 10
+    },
+    {
+      "classes": "slider",
+      "slidesCount": 9
+    },
+    {
+      "classes": "slider__grid grid product-grid grid--2-col-tablet-down grid--4-col-desktop",
+      "slidesCount": 8
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "carousel block",
+      "slidesCount": 10
+    },
+    {
+      "classes": "slider",
+      "slidesCount": 9
+    },
+    {
+      "classes": "slider__grid grid product-grid grid--2-col-tablet-down grid--4-col-desktop",
+      "slidesCount": 8
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "carousel block",
+      "slidesCount": 10
+    },
+    {
+      "classes": "slider",
+      "slidesCount": 9
+    },
+    {
+      "classes": "slider__grid grid product-grid grid--2-col-tablet-down grid--4-col-desktop",
+      "slidesCount": 8
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "carousel block",
+      "slidesCount": 10
+    },
+    {
+      "classes": "slider",
+      "slidesCount": 9
+    },
+    {
+      "classes": "slider__grid grid product-grid grid--2-col-tablet-down grid--4-col-desktop",
+      "slidesCount": 8
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "carousel block",
+      "slidesCount": 10
+    },
+    {
+      "classes": "slider",
+      "slidesCount": 9
+    },
+    {
+      "classes": "slider__grid grid product-grid grid--2-col-tablet-down grid--4-col-desktop",
+      "slidesCount": 8
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "carousel block",
+      "slidesCount": 10
+    },
+    {
+      "classes": "slider",
+      "slidesCount": 9
+    },
+    {
+      "classes": "slider__grid grid product-grid grid--2-col-tablet-down grid--4-col-desktop",
+      "slidesCount": 8
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "main-home-banner-in-the-home-nutri slick-initialized slick-slider",
+      "slidesCount": 2
+    },
+    {
+      "classes": "carousel block",
+      "slidesCount": 10
+    },
+    {
+      "classes": "slider",
+      "slidesCount": 9
+    },
+    {
+      "classes": "slider__grid grid grid-flow-col auto-cols-2 small-cards-mobile md:auto-cols-3 lg:auto-cols-4 xl:auto-cols-5 small-cards-desktop gap-x-theme gap-y-8",
+      "slidesCount": 8
+    },
+    {
+      "classes": "slider__item",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item",
+      "slidesCount": 0
+    },
+    {
+      "classes": "carousel block",
+      "slidesCount": 9
+    },
+    {
+      "classes": "slider",
+      "slidesCount": 8
+    },
+    {
+      "classes": "slider__grid homepage-popular-Brands99-maincard",
+      "slidesCount": 7
+    },
+    {
+      "classes": "slider__item homepage-popular-Brands99-card",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item homepage-popular-Brands99-card",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item homepage-popular-Brands99-card",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item homepage-popular-Brands99-card",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item homepage-popular-Brands99-card",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item homepage-popular-Brands99-card",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item homepage-popular-Brands99-card",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider nutristar-offers-top mobile-sections",
+      "slidesCount": 0
+    },
+    {
+      "classes": "carousel block",
+      "slidesCount": 8
+    },
+    {
+      "classes": "slider",
+      "slidesCount": 4
+    },
+    {
+      "classes": "slider__grid nutristar-offers-main",
+      "slidesCount": 3
+    },
+    {
+      "classes": "slider__item nutristar-offers-card",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item nutristar-offers-card",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item nutristar-offers-card",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider-nav absolute top-middle end hidden md:block no-js-hidden",
+      "slidesCount": 2
+    },
+    {
+      "classes": "slider-nav__btn tap-target btn btn--primary has-ltr-icon",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider-nav__btn tap-target btn btn--primary has-ltr-icon",
+      "slidesCount": 0
+    },
+    {
+      "classes": "carousel block",
+      "slidesCount": 26
+    },
+    {
+      "classes": "slider",
+      "slidesCount": 25
+    },
+    {
+      "classes": "slider__grid homepage-popular-Brands99-maincard",
+      "slidesCount": 24
+    },
+    {
+      "classes": "slider__item homepage-popular-Brands99-card",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item homepage-popular-Brands99-card",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item homepage-popular-Brands99-card",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item homepage-popular-Brands99-card",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item homepage-popular-Brands99-card",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item homepage-popular-Brands99-card",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item homepage-popular-Brands99-card",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item homepage-popular-Brands99-card",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item homepage-popular-Brands99-card",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item homepage-popular-Brands99-card",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item homepage-popular-Brands99-card",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item homepage-popular-Brands99-card",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item homepage-popular-Brands99-card",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item homepage-popular-Brands99-card",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item homepage-popular-Brands99-card",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item homepage-popular-Brands99-card",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item homepage-popular-Brands99-card",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item homepage-popular-Brands99-card",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item homepage-popular-Brands99-card",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item homepage-popular-Brands99-card",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item homepage-popular-Brands99-card",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item homepage-popular-Brands99-card",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item homepage-popular-Brands99-card",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item homepage-popular-Brands99-card",
+      "slidesCount": 0
+    },
+    {
+      "classes": "carousel block",
+      "slidesCount": 10
+    },
+    {
+      "classes": "slider",
+      "slidesCount": 9
+    },
+    {
+      "classes": "slider__grid grid product-grid grid--2-col-tablet-down grid--4-col-desktop",
+      "slidesCount": 8
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "carousel block",
+      "slidesCount": 10
+    },
+    {
+      "classes": "slider",
+      "slidesCount": 9
+    },
+    {
+      "classes": "slider__grid grid product-grid grid--2-col-tablet-down grid--4-col-desktop",
+      "slidesCount": 8
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "carousel block",
+      "slidesCount": 10
+    },
+    {
+      "classes": "slider",
+      "slidesCount": 9
+    },
+    {
+      "classes": "slider__grid grid product-grid grid--2-col-tablet-down grid--4-col-desktop",
+      "slidesCount": 8
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "carousel block",
+      "slidesCount": 10
+    },
+    {
+      "classes": "slider",
+      "slidesCount": 9
+    },
+    {
+      "classes": "slider__grid grid product-grid grid--2-col-tablet-down grid--4-col-desktop",
+      "slidesCount": 8
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "carousel block",
+      "slidesCount": 10
+    },
+    {
+      "classes": "slider",
+      "slidesCount": 9
+    },
+    {
+      "classes": "slider__grid grid product-grid grid--2-col-tablet-down grid--4-col-desktop",
+      "slidesCount": 8
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "carousel block",
+      "slidesCount": 10
+    },
+    {
+      "classes": "slider",
+      "slidesCount": 9
+    },
+    {
+      "classes": "slider__grid grid product-grid grid--2-col-tablet-down grid--4-col-desktop",
+      "slidesCount": 8
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "carousel block",
+      "slidesCount": 7
+    },
+    {
+      "classes": "slider",
+      "slidesCount": 6
+    },
+    {
+      "classes": "slider__grid homepage-On-Ouer-header3",
+      "slidesCount": 5
+    },
+    {
+      "classes": "slider__item",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item",
+      "slidesCount": 0
+    },
+    {
+      "classes": "carousel block",
+      "slidesCount": 10
+    },
+    {
+      "classes": "slider",
+      "slidesCount": 9
+    },
+    {
+      "classes": "slider__grid grid product-grid grid--2-col-tablet-down grid--4-col-desktop",
+      "slidesCount": 8
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item grid__item scroll-trigger animate--slide-in",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider nutristar-offers-top mobile-sections",
+      "slidesCount": 0
+    },
+    {
+      "classes": "carousel block",
+      "slidesCount": 8
+    },
+    {
+      "classes": "slider",
+      "slidesCount": 4
+    },
+    {
+      "classes": "slider__grid nutristar-offers-main",
+      "slidesCount": 3
+    },
+    {
+      "classes": "slider__item nutristar-offers-card",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item nutristar-offers-card",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item nutristar-offers-card",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider-nav absolute top-middle end hidden md:block no-js-hidden",
+      "slidesCount": 2
+    },
+    {
+      "classes": "slider-nav__btn tap-target btn btn--primary has-ltr-icon",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider-nav__btn tap-target btn btn--primary has-ltr-icon",
+      "slidesCount": 0
+    },
+    {
+      "classes": "carousel block",
+      "slidesCount": 13
+    },
+    {
+      "classes": "slider",
+      "slidesCount": 12
+    },
+    {
+      "classes": "slider__grid homepage-popular-Brands99-maincard",
+      "slidesCount": 11
+    },
+    {
+      "classes": "slider__item homepage-popular-Brands99-card",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item homepage-popular-Brands99-card",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item homepage-popular-Brands99-card",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item homepage-popular-Brands99-card",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item homepage-popular-Brands99-card",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item homepage-popular-Brands99-card",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item homepage-popular-Brands99-card",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item homepage-popular-Brands99-card",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item homepage-popular-Brands99-card",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item homepage-popular-Brands99-card",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item homepage-popular-Brands99-card",
+      "slidesCount": 0
+    },
+    {
+      "classes": "featured-collection-info mb-6 md:mb-0 flex shrink-0 flex-col featured-collection-info--carousel items-stretch",
+      "slidesCount": 0
+    },
+    {
+      "classes": "carousel block grow",
+      "slidesCount": 12
+    },
+    {
+      "classes": "slider",
+      "slidesCount": 11
+    },
+    {
+      "classes": "slider__grid grid grid-flow-col auto-cols-2 small-cards-mobile sm:auto-cols-3 md:auto-cols-2 lg:auto-cols-3 xl:auto-cols-4 small-cards-desktop gap-x-theme gap-y-8",
+      "slidesCount": 10
+    },
+    {
+      "classes": "slider__item",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item",
+      "slidesCount": 0
+    },
+    {
+      "classes": "carousel block",
+      "slidesCount": 18
+    },
+    {
+      "classes": "slider",
+      "slidesCount": 17
+    },
+    {
+      "classes": "slider__grid homepage-popular-Brands99-maincard",
+      "slidesCount": 16
+    },
+    {
+      "classes": "slider__item homepage-popular-Brands99-card",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item homepage-popular-Brands99-card",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item homepage-popular-Brands99-card",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item homepage-popular-Brands99-card",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item homepage-popular-Brands99-card",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item homepage-popular-Brands99-card",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item homepage-popular-Brands99-card",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item homepage-popular-Brands99-card",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item homepage-popular-Brands99-card",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item homepage-popular-Brands99-card",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item homepage-popular-Brands99-card",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item homepage-popular-Brands99-card",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item homepage-popular-Brands99-card",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item homepage-popular-Brands99-card",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item homepage-popular-Brands99-card",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item homepage-popular-Brands99-card",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider nutristar-offers-top mobile-sections",
+      "slidesCount": 0
+    },
+    {
+      "classes": "carousel block",
+      "slidesCount": 8
+    },
+    {
+      "classes": "slider",
+      "slidesCount": 4
+    },
+    {
+      "classes": "slider__grid nutristar-offers-main",
+      "slidesCount": 3
+    },
+    {
+      "classes": "slider__item nutristar-offers-card",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item nutristar-offers-card",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item nutristar-offers-card",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider-nav absolute top-middle end hidden md:block no-js-hidden",
+      "slidesCount": 2
+    },
+    {
+      "classes": "slider-nav__btn tap-target btn btn--primary has-ltr-icon",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider-nav__btn tap-target btn btn--primary has-ltr-icon",
+      "slidesCount": 0
+    },
+    {
+      "classes": "carousel block",
+      "slidesCount": 16
+    },
+    {
+      "classes": "slider",
+      "slidesCount": 15
+    },
+    {
+      "classes": "slider__grid first_div11",
+      "slidesCount": 14
+    },
+    {
+      "classes": "slider__item second_div22",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item second_div22",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item second_div22",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item second_div22",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item second_div22",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item second_div22",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item second_div22",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item second_div22",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item second_div22",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item second_div22",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item second_div22",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item second_div22",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item second_div22",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item second_div22",
+      "slidesCount": 0
+    },
+    {
+      "classes": "main-home-banner-in-the-home-nutri slick-initialized slick-slider",
+      "slidesCount": 2
+    },
+    {
+      "classes": "carousel block",
+      "slidesCount": 10
+    },
+    {
+      "classes": "slider",
+      "slidesCount": 9
+    },
+    {
+      "classes": "slider__grid grid grid-flow-col auto-cols-1 sm:auto-cols-2 lg:auto-cols-3 xl:auto-cols-4 gap-x-theme gap-y-10",
+      "slidesCount": 8
+    },
+    {
+      "classes": "slider__item",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item",
+      "slidesCount": 0
+    },
+    {
+      "classes": "slider__item",
+      "slidesCount": 0
+    }
+  ],
+  "media": [
+    {
+      "type": "IMG",
+      "src": "https://nutristar.in/cdn/shop/files/Desktop_view_2__jpg.jpg?v=1783058790&width=1880",
+      "width": 1370,
+      "height": 320
+    },
+    {
+      "type": "IMG",
+      "src": "https://nutristar.in/cdn/shop/files/Nutristar__march__03_91d7d1d8-d758-465e-8306-3af70a7a7d35.webp?v=1784181098&width=1880",
+      "width": 1370,
+      "height": 306
+    },
+    {
+      "type": "IMG",
+      "src": "https://nutristar.in/cdn/shop/files/YHL_HOMEPAGE_BANNER_jpg.jpg?v=1786948369&width=1880",
+      "width": 1370,
+      "height": 306
+    },
+    {
+      "type": "IMG",
+      "src": "https://nutristar.in/cdn/shop/files/WellnessHomepageBannerjpg.jpg?v=1786946326&width=1880",
+      "width": 1370,
+      "height": 306
+    },
+    {
+      "type": "IMG",
+      "src": "https://nutristar.in/cdn/shop/files/Desktop_view_.jpg_2.jpg?v=1783318438&width=1880",
+      "width": 1370,
+      "height": 320
+    },
+    {
+      "type": "IMG",
+      "src": "https://nutristar.in/cdn/shop/files/Desktop_view_2__jpg.jpg?v=1783058790&width=1880",
+      "width": 1370,
+      "height": 320
+    },
+    {
+      "type": "IMG",
+      "src": "https://nutristar.in/cdn/shop/files/Nutristar__march__03_91d7d1d8-d758-465e-8306-3af70a7a7d35.webp?v=1784181098&width=1880",
+      "width": 1370,
+      "height": 306
+    },
+    {
+      "type": "IMG",
+      "src": "https://nutristar.in/cdn/shop/files/YHL_HOMEPAGE_BANNER_jpg.jpg?v=1786948369&width=1880",
+      "width": 1370,
+      "height": 306
+    },
+    {
+      "type": "IMG",
+      "src": "https://nutristar.in/cdn/shop/files/WellnessHomepageBannerjpg.jpg?v=1786946326&width=1880",
+      "width": 1370,
+      "height": 306
+    },
+    {
+      "type": "IMG",
+      "src": "https://nutristar.in/cdn/shop/files/Desktop_view_.jpg_2.jpg?v=1783318438&width=1880",
+      "width": 1370,
+      "height": 320
+    },
+    {
+      "type": "IMG",
+      "src": "https://nutristar.in/cdn/shop/files/Desktop_view_2__jpg.jpg?v=1783058790&width=1880",
+      "width": 1370,
+      "height": 320
+    },
+    {
+      "type": "IMG",
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900.0%20900'%3E%3C/svg%3E",
+      "width": 288,
+      "height": 202
+    },
+    {
+      "type": "IMG",
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20675.0%20675'%3E%3C/svg%3E",
+      "width": 288,
+      "height": 202
+    },
+    {
+      "type": "IMG",
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20675.0%20675'%3E%3C/svg%3E",
+      "width": 288,
+      "height": 202
+    },
+    {
+      "type": "IMG",
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20675.0%20675'%3E%3C/svg%3E",
+      "width": 288,
+      "height": 202
+    },
+    {
+      "type": "IMG",
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900.0%20900'%3E%3C/svg%3E",
+      "width": 288,
+      "height": 202
+    },
+    {
+      "type": "IMG",
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900.0%20900'%3E%3C/svg%3E",
+      "width": 288,
+      "height": 202
+    },
+    {
+      "type": "IMG",
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900.0%20900'%3E%3C/svg%3E",
+      "width": 288,
+      "height": 202
+    },
+    {
+      "type": "IMG",
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900.0%20900'%3E%3C/svg%3E",
+      "width": 288,
+      "height": 202
+    },
+    {
+      "type": "IMG",
+      "src": "https://nutristar.in/cdn/shop/files/download_banner_app_2_64479b9c-68f1-4db5-bd9e-809b83cf8de6.png?v=1777015506&width=1880",
+      "width": 1370,
+      "height": 257
+    },
+    {
+      "type": "IMG",
+      "src": "https://nutristar.in/cdn/shop/files/Category_March_01_ad517d91-6d1b-42a0-b761-a9d8f6da3ff3.webp?v=1767768867&width=600",
+      "width": 207,
+      "height": 230
+    },
+    {
+      "type": "IMG",
+      "src": "https://nutristar.in/cdn/shop/files/Category_March_04_a1c99e42-701f-4cdb-a958-96cf4f3bc15d_1.webp?v=1769778160&width=600",
+      "width": 207,
+      "height": 230
+    },
+    {
+      "type": "IMG",
+      "src": "https://nutristar.in/cdn/shop/files/Category_March_06_16531104-2ae5-4d8e-80bd-c0a91c9cca6c_1.webp?v=1769778160&width=600",
+      "width": 207,
+      "height": 230
+    },
+    {
+      "type": "IMG",
+      "src": "https://nutristar.in/cdn/shop/files/Category_March_07_18b0816d-6db3-4659-9b9e-688d39325f1c_1.webp?v=1769778160&width=600",
+      "width": 207,
+      "height": 230
+    },
+    {
+      "type": "IMG",
+      "src": "https://nutristar.in/cdn/shop/files/Category_March_05_10756e5e-2f29-4b93-8d97-0e696bb04d61_1.webp?v=1769778160&width=600",
+      "width": 207,
+      "height": 230
+    },
+    {
+      "type": "IMG",
+      "src": "https://nutristar.in/cdn/shop/files/simplyherballogo1.png?v=1783324474&width=600",
+      "width": 207,
+      "height": 230
+    },
+    {
+      "type": "IMG",
+      "src": "https://nutristar.in/cdn/shop/files/Category_March_02_897950dc-9ac0-4c43-bc83-0e0a5eabda2e_1.webp?v=1769778160&width=600",
+      "width": 207,
+      "height": 230
+    },
+    {
+      "type": "IMG",
+      "src": "https://nutristar.in/cdn/shop/files/Category_March_10_b904af49-6acc-461e-85b3-8dedcbcd4853_1.webp?v=1769778160&width=600",
+      "width": 207,
+      "height": 230
+    },
+    {
+      "type": "IMG",
+      "src": "https://nutristar.in/cdn/shop/files/Category_March_03_9974e3b5-9a17-4668-b2f8-8b010749b545_1.webp?v=1769778160&width=600",
+      "width": 207,
+      "height": 230
+    },
+    {
+      "type": "IMG",
+      "src": "https://nutristar.in/cdn/shop/files/Category_March_12_c69a9756-30be-4206-b3fd-ff0f2bf5295a_1.webp?v=1769778160&width=600",
+      "width": 207,
+      "height": 230
+    },
+    {
+      "type": "IMG",
+      "src": "https://nutristar.in/cdn/shop/files/MULTIVITAMIN_jpg.jpg?v=1785224109&width=600",
+      "width": 207,
+      "height": 230
+    },
+    {
+      "type": "IMG",
+      "src": "https://nutristar.in/cdn/shop/files/Category_March_08_3918449b-6034-4825-a96c-46da0ab6414a_1.webp?v=1769778160&width=600",
+      "width": 207,
+      "height": 230
+    },
+    {
+      "type": "IMG",
+      "src": "https://nutristar.in/cdn/shop/files/next_gen_yeast_protein_desktop_new_29a96216-bb49-4950-bc7e-01008c046d77.png?v=1786950247",
+      "width": 1380,
+      "height": 352
+    },
+    {
+      "type": "IMG",
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900.0%20900'%3E%3C/svg%3E",
+      "width": 224,
+      "height": 157
+    },
+    {
+      "type": "IMG",
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900.0%20900'%3E%3C/svg%3E",
+      "width": 224,
+      "height": 157
+    },
+    {
+      "type": "IMG",
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900.0%20900'%3E%3C/svg%3E",
+      "width": 224,
+      "height": 157
+    },
+    {
+      "type": "IMG",
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900.0%20908'%3E%3C/svg%3E",
+      "width": 224,
+      "height": 157
+    },
+    {
+      "type": "IMG",
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900.0%20900'%3E%3C/svg%3E",
+      "width": 224,
+      "height": 157
+    },
+    {
+      "type": "IMG",
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900.0%20900'%3E%3C/svg%3E",
+      "width": 224,
+      "height": 157
+    },
+    {
+      "type": "IMG",
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900.0%20900'%3E%3C/svg%3E",
+      "width": 224,
+      "height": 157
+    },
+    {
+      "type": "IMG",
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900.0%20900'%3E%3C/svg%3E",
+      "width": 224,
+      "height": 157
+    },
+    {
+      "type": "IMG",
+      "src": "https://nutristar.in/cdn/shop/files/Artboard9_large.png?v=1786099205",
+      "width": 162,
+      "height": 319
+    },
+    {
+      "type": "IMG",
+      "src": "https://nutristar.in/cdn/shop/files/Artboard7_large.png?v=1786099204",
+      "width": 162,
+      "height": 319
+    },
+    {
+      "type": "IMG",
+      "src": "https://nutristar.in/cdn/shop/files/Artboard10_large.png?v=1786099208",
+      "width": 162,
+      "height": 319
+    },
+    {
+      "type": "IMG",
+      "src": "https://nutristar.in/cdn/shop/files/Artboard1_large.jpg?v=1786099205",
+      "width": 162,
+      "height": 319
+    },
+    {
+      "type": "IMG",
+      "src": "https://nutristar.in/cdn/shop/files/Artboard4_large.png?v=1786099207",
+      "width": 162,
+      "height": 319
+    },
+    {
+      "type": "IMG",
+      "src": "https://nutristar.in/cdn/shop/files/Artboard3_large.png?v=1786099204",
+      "width": 162,
+      "height": 319
+    },
+    {
+      "type": "IMG",
+      "src": "https://nutristar.in/cdn/shop/files/Artboard5_large.png?v=1786099208",
+      "width": 162,
+      "height": 319
+    },
+    {
+      "type": "IMG",
+      "src": "https://nutristar.in/cdn/shop/files/Artboard_1_copy_9.png?v=1785222252",
+      "width": 453,
+      "height": 249
+    },
+    {
+      "type": "IMG",
+      "src": "https://nutristar.in/cdn/shop/files/Artboard_1_copy_10.png?v=1785222253",
+      "width": 453,
+      "height": 249
+    },
+    {
+      "type": "IMG",
+      "src": "https://nutristar.in/cdn/shop/files/Artboard_1_copy_4_1.png?v=1785222750",
+      "width": 453,
+      "height": 249
+    },
+    {
+      "type": "IMG",
+      "src": "https://nutristar.in/cdn/shop/files/simplyherballogo_medium.png?v=1783320404",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "type": "IMG",
+      "src": "https://nutristar.in/cdn/shop/files/international_protein_medium.png?v=1782716860",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "type": "IMG",
+      "src": "https://nutristar.in/cdn/shop/files/GAYOR_ESSENTIAL_1_medium.png?v=1781684532",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "type": "IMG",
+      "src": "https://nutristar.in/cdn/shop/files/ace_blend_1_medium.png?v=1781684608",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "type": "IMG",
+      "src": "https://nutristar.in/cdn/shop/files/AVVATAR_BRAND_ICON_d16ef33e-e16a-454b-bd50-c9ec8720d920_medium.png?v=1772012873",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "type": "IMG",
+      "src": "https://nutristar.in/cdn/shop/files/SWISSE_BRAND_ICON_5_medium.png?v=1772088975",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "type": "IMG",
+      "src": "https://nutristar.in/cdn/shop/files/CARBAMIDE_FORTE_BRAND_ICON_6_medium.png?v=1772085843",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "type": "IMG",
+      "src": "https://nutristar.in/cdn/shop/files/my_protein_medium.png?v=1773989618",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "type": "IMG",
+      "src": "https://nutristar.in/cdn/shop/files/vlho_BRAND_ICON_1_medium.png?v=1772012873",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "type": "IMG",
+      "src": "https://nutristar.in/cdn/shop/files/WELLCORE_BRAND_ICON_1_medium.png?v=1772012873",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "type": "IMG",
+      "src": "https://nutristar.in/cdn/shop/files/TWT_BRAND_ICON_bfee7531-b6bf-4d77-9485-ef115f519948_medium.png?v=1772012874",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "type": "IMG",
+      "src": "https://nutristar.in/cdn/shop/files/BOLT_BRAND_ICON_ea8eacd1-50b6-4a20-aacc-17c3c0bef8d8_medium.png?v=1772012873",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "type": "IMG",
+      "src": "https://nutristar.in/cdn/shop/files/CARBAMIDE_FORTE_BRAND_ICON_3_medium.png?v=1772028728",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "type": "IMG",
+      "src": "https://nutristar.in/cdn/shop/files/universal_nutrition_logo_medium.png?v=1774253634",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "type": "IMG",
+      "src": "https://nutristar.in/cdn/shop/files/TRUNATIV_BRAND_ICON_60e692c5-8fa4-4892-8b30-dcff67a77cd4_medium.png?v=1772012873",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "type": "IMG",
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20675.0%20675'%3E%3C/svg%3E",
+      "width": 288,
+      "height": 202
+    },
+    {
+      "type": "IMG",
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900.0%20900'%3E%3C/svg%3E",
+      "width": 288,
+      "height": 202
+    },
+    {
+      "type": "IMG",
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20675.0%20675'%3E%3C/svg%3E",
+      "width": 288,
+      "height": 202
+    },
+    {
+      "type": "IMG",
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20675.0%20675'%3E%3C/svg%3E",
+      "width": 288,
+      "height": 202
+    },
+    {
+      "type": "IMG",
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900.0%20900'%3E%3C/svg%3E",
+      "width": 288,
+      "height": 202
+    },
+    {
+      "type": "IMG",
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900.0%20900'%3E%3C/svg%3E",
+      "width": 288,
+      "height": 202
+    },
+    {
+      "type": "IMG",
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20675.0%20675'%3E%3C/svg%3E",
+      "width": 288,
+      "height": 202
+    },
+    {
+      "type": "IMG",
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20675.0%20675'%3E%3C/svg%3E",
+      "width": 288,
+      "height": 202
+    },
+    {
+      "type": "IMG",
+      "src": "https://nutristar.in/cdn/shop/files/Artboard_1.jpg_1.jpg?v=1785222886&width=600",
+      "width": 320,
+      "height": 240
+    },
+    {
+      "type": "IMG",
+      "src": "https://nutristar.in/cdn/shop/files/Artboard_1_copy_jpg.jpg?v=1785222885&width=600",
+      "width": 320,
+      "height": 240
+    },
+    {
+      "type": "IMG",
+      "src": "https://nutristar.in/cdn/shop/files/Artboard_1_copy_2_jpg.jpg?v=1785222885&width=600",
+      "width": 320,
+      "height": 240
+    },
+    {
+      "type": "IMG",
+      "src": "https://nutristar.in/cdn/shop/files/Artboard_1_copy_3_jpg.jpg?v=1785222885&width=600",
+      "width": 320,
+      "height": 240
+    },
+    {
+      "type": "IMG",
+      "src": "https://nutristar.in/cdn/shop/files/Artboard_1_copy_4_jpg.jpg?v=1785222885&width=600",
+      "width": 320,
+      "height": 240
+    },
+    {
+      "type": "IMG",
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20675.0%20675'%3E%3C/svg%3E",
+      "width": 288,
+      "height": 202
+    },
+    {
+      "type": "IMG",
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900.0%20900'%3E%3C/svg%3E",
+      "width": 288,
+      "height": 202
+    },
+    {
+      "type": "IMG",
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900.0%20900'%3E%3C/svg%3E",
+      "width": 288,
+      "height": 202
+    },
+    {
+      "type": "IMG",
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900.0%20900'%3E%3C/svg%3E",
+      "width": 288,
+      "height": 202
+    },
+    {
+      "type": "IMG",
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900.0%20900'%3E%3C/svg%3E",
+      "width": 288,
+      "height": 202
+    },
+    {
+      "type": "IMG",
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900.0%20900'%3E%3C/svg%3E",
+      "width": 288,
+      "height": 202
+    },
+    {
+      "type": "IMG",
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900.0%20900'%3E%3C/svg%3E",
+      "width": 288,
+      "height": 202
+    },
+    {
+      "type": "IMG",
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900.0%20900'%3E%3C/svg%3E",
+      "width": 288,
+      "height": 202
+    },
+    {
+      "type": "IMG",
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900.0%20900'%3E%3C/svg%3E",
+      "width": 358,
+      "height": 251
+    },
+    {
+      "type": "IMG",
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900.0%20900'%3E%3C/svg%3E",
+      "width": 358,
+      "height": 251
+    },
+    {
+      "type": "IMG",
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900.0%20900'%3E%3C/svg%3E",
+      "width": 358,
+      "height": 251
+    },
+    {
+      "type": "IMG",
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900.0%20900'%3E%3C/svg%3E",
+      "width": 358,
+      "height": 251
+    },
+    {
+      "type": "IMG",
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20675.0%20715'%3E%3C/svg%3E",
+      "width": 358,
+      "height": 251
+    },
+    {
+      "type": "IMG",
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900.0%20900'%3E%3C/svg%3E",
+      "width": 358,
+      "height": 251
+    },
+    {
+      "type": "IMG",
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900.0%20900'%3E%3C/svg%3E",
+      "width": 358,
+      "height": 251
+    },
+    {
+      "type": "IMG",
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900.0%20900'%3E%3C/svg%3E",
+      "width": 358,
+      "height": 251
+    },
+    {
+      "type": "IMG",
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20675.0%20675'%3E%3C/svg%3E",
+      "width": 358,
+      "height": 251
+    },
+    {
+      "type": "IMG",
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20675.0%20675'%3E%3C/svg%3E",
+      "width": 358,
+      "height": 251
+    },
+    {
+      "type": "IMG",
+      "src": "https://nutristar.in/cdn/shop/files/POSTER_BANNER_KAGED_2.webp?v=1784018641&width=600",
+      "width": 360,
+      "height": 540
+    },
+    {
+      "type": "IMG",
+      "src": "https://nutristar.in/cdn/shop/files/POSTER_BANNER_MUSCLEBLAZE_3.webp?v=1784018640&width=600",
+      "width": 360,
+      "height": 540
+    },
+    {
+      "type": "IMG",
+      "src": "https://nutristar.in/cdn/shop/files/POSTER_BANNER_PROSUPPS_2.webp?v=1784018641&width=600",
+      "width": 360,
+      "height": 540
+    },
+    {
+      "type": "IMG",
+      "src": "https://nutristar.in/cdn/shop/files/POSTER_BANNER_ASITIS_2.webp?v=1784018641&width=600",
+      "width": 360,
+      "height": 540
+    },
+    {
+      "type": "IMG",
+      "src": "https://nutristar.in/cdn/shop/files/POSTER_BANNER_WELLCORE_2.webp?v=1784018641&width=600",
+      "width": 360,
+      "height": 540
+    },
+    {
+      "type": "IMG",
+      "src": "https://nutristar.in/cdn/shop/files/POSTER_BANNER_OPTIMUMNUTRITION_1.webp?v=1784018640&width=600",
+      "width": 360,
+      "height": 540
+    },
+    {
+      "type": "IMG",
+      "src": "https://nutristar.in/cdn/shop/files/POSTER_BANNER_BRITPRO_2.webp?v=1784018641&width=600",
+      "width": 360,
+      "height": 540
+    },
+    {
+      "type": "IMG",
+      "src": "https://nutristar.in/cdn/shop/files/POSTER_BANNER_INTERNATIONAL_PROTEIN_2.webp?v=1784018640&width=600",
+      "width": 360,
+      "height": 540
+    },
+    {
+      "type": "IMG",
+      "src": "https://nutristar.in/cdn/shop/files/POSTER_BANNER_AVVATAR_2.webp?v=1784018641&width=600",
+      "width": 360,
+      "height": 540
+    },
+    {
+      "type": "IMG",
+      "src": "https://nutristar.in/cdn/shop/files/POSTER_BANNER_ACE__BLEND_1.webp?v=1784018641&width=600",
+      "width": 360,
+      "height": 540
+    },
+    {
+      "type": "IMG",
+      "src": "https://nutristar.in/cdn/shop/files/POSTER_BANNER_WELLBEING_NUTRITION_2.webp?v=1784018641&width=600",
+      "width": 360,
+      "height": 540
+    },
+    {
+      "type": "IMG",
+      "src": "https://nutristar.in/cdn/shop/files/POSTER_BANNER_SWISSE_2.webp?v=1784018640&width=600",
+      "width": 360,
+      "height": 540
+    },
+    {
+      "type": "IMG",
+      "src": "https://nutristar.in/cdn/shop/files/POSTER_BANNER_RYSE_2.webp?v=1784018640&width=600",
+      "width": 360,
+      "height": 540
+    },
+    {
+      "type": "IMG",
+      "src": "https://nutristar.in/cdn/shop/files/ChatGPT_Image_Jun_17_2026_02_22_55_PM.png?v=1781686398&width=600",
+      "width": 360,
+      "height": 540
+    },
+    {
+      "type": "IMG",
+      "src": "https://nutristar.in/cdn/shop/files/DOWNLOAD_MOBILE_APP_6_3ad1d109-d07c-4765-a460-a753e1dd64aa.png?v=1772016323&width=1880",
+      "width": 1370,
+      "height": 350
+    },
+    {
+      "type": "IMG",
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900.0%20599'%3E%3C/svg%3E",
+      "width": 321,
+      "height": 181
+    },
+    {
+      "type": "IMG",
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900.0%20600'%3E%3C/svg%3E",
+      "width": 321,
+      "height": 181
+    },
+    {
+      "type": "IMG",
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900.0%20600'%3E%3C/svg%3E",
+      "width": 321,
+      "height": 181
+    },
+    {
+      "type": "IMG",
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900.0%20600'%3E%3C/svg%3E",
+      "width": 321,
+      "height": 181
+    },
+    {
+      "type": "IMG",
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900.0%20600'%3E%3C/svg%3E",
+      "width": 321,
+      "height": 181
+    },
+    {
+      "type": "IMG",
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900.0%20600'%3E%3C/svg%3E",
+      "width": 321,
+      "height": 181
+    },
+    {
+      "type": "IMG",
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900.0%20600'%3E%3C/svg%3E",
+      "width": 321,
+      "height": 181
+    },
+    {
+      "type": "IMG",
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900.0%20506'%3E%3C/svg%3E",
+      "width": 321,
+      "height": 181
+    },
+    {
+      "type": "IMG",
+      "src": "https://nutristar.in/cdn/shop/files/payment_stamp.svg?v=1727071782",
+      "width": 90,
+      "height": 89
+    },
+    {
+      "type": "IMG",
+      "src": "https://nutristar.in/cdn/shop/files/Authenticity_stamp.svg?v=1727093469",
+      "width": 90,
+      "height": 89
+    },
+    {
+      "type": "IMG",
+      "src": "https://nutristar.in/cdn/shop/files/Return_stamp_005f3be5-c0f4-4e7e-9171-95ee3bba9bb9.svg?v=1727071722",
+      "width": 90,
+      "height": 89
+    }
+  ]
+}

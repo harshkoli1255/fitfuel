@@ -1,0 +1,26 @@
+[
+  {
+    "label": "Brands",
+    "sourceUrl": "hover",
+    "destination": "/pages/brands",
+    "menu": "MegaMenu",
+    "desktop": true,
+    "mobile": true
+  },
+  {
+    "label": "Proteins",
+    "sourceUrl": "hover",
+    "destination": "/collections/proteins",
+    "menu": "MegaMenu",
+    "desktop": true,
+    "mobile": true
+  },
+  {
+    "label": "Track Order",
+    "sourceUrl": "header-top",
+    "destination": "/pages/track-order",
+    "menu": "Utility",
+    "desktop": true,
+    "mobile": false
+  }
+]

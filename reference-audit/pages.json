@@ -1,0 +1,32 @@
+[
+  {
+    "url": "/",
+    "type": "HOME",
+    "title": "Nutristar - Home",
+    "implementationStatus": "PENDING"
+  },
+  {
+    "url": "/collections/all",
+    "type": "COLLECTION",
+    "title": "All Products",
+    "implementationStatus": "PENDING"
+  },
+  {
+    "url": "/collections/whey-protein",
+    "type": "CATEGORY",
+    "title": "Whey Protein",
+    "implementationStatus": "PENDING"
+  },
+  {
+    "url": "/pages/about-us",
+    "type": "INFORMATIONAL",
+    "title": "About Us",
+    "implementationStatus": "PENDING"
+  },
+  {
+    "url": "/blogs/news",
+    "type": "BLOG_INDEX",
+    "title": "Blogs",
+    "implementationStatus": "PENDING"
+  }
+]
