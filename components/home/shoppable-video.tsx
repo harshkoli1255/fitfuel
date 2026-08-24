@@ -3,6 +3,7 @@ import React, { useState, useRef } from 'react'
 import { Play, Pause, ExternalLink } from 'lucide-react'
 import Link from 'next/link'
 import { Product } from '@/types'
+import { getPrimaryProductImage } from '@/lib/utils/product-media'
 
 interface ShoppableVideoProps {
   videoSrc: string
@@ -66,8 +67,8 @@ export function ShoppableVideo({ videoSrc, posterSrc, product, title, subtitle }
         
         <Link href={`/products/${product.slug}`} className="flex items-center gap-4 bg-white p-3 rounded-lg hover:bg-[var(--color-brand)] hover:text-white transition-colors group/card">
           <div className="h-12 w-12 bg-muted rounded overflow-hidden shrink-0">
-            {product.media && product.media.length > 0 ? (
-              <img src={product.media[0].src} alt={product.name} className="w-full h-full object-cover mix-blend-multiply" />
+            {product ? (
+              <img src={getPrimaryProductImage(product)} alt={product.name} className="w-full h-full object-cover mix-blend-multiply" />
             ) : (
               <div className="w-full h-full bg-gray-200" />
             )}

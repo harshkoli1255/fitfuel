@@ -9,6 +9,7 @@ import { ProductCarousel } from '@/components/home/product-carousel'
 import { CategoryCarousel } from '@/components/home/category-carousel'
 import { BrandCarousel } from '@/components/home/brand-carousel'
 import { ShoppableVideo } from '@/components/home/shoppable-video'
+import { DealBanner } from '@/components/home/deal-banner'
 
 export default function Home() {
   const featuredProducts = getFeaturedProducts()
@@ -75,26 +76,7 @@ export default function Home() {
       </section>
 
       {/* DEAL OF THE WEEK (Promotional Section) */}
-      <section className="py-16 bg-[var(--color-brand)] text-black border-y-8 border-black overflow-hidden relative">
-        <div className="absolute inset-0 opacity-10 bg-[url('https://images.unsplash.com/photo-1579722820308-d74e571900a9?q=80&w=2000&auto=format&fit=crop')] bg-cover bg-center mix-blend-multiply pointer-events-none" />
-        <div className="container relative z-10 flex flex-col md:flex-row items-center justify-between gap-8">
-          <div className="max-w-xl text-center md:text-left">
-            <h2 className="font-display font-black text-5xl md:text-7xl uppercase tracking-tighter leading-none mb-4">Deal of the Week</h2>
-            <p className="text-xl font-bold uppercase tracking-widest mb-8 opacity-80">Up to 40% off premium isolates</p>
-            <Button size="lg" className="rounded-none bg-black text-white hover:bg-white hover:text-black border-2 border-black font-bold text-lg px-8 py-6 uppercase tracking-wider">
-              Claim Offer
-            </Button>
-          </div>
-          <div className="flex gap-4 sm:gap-6 text-center">
-            {['Days', 'Hours', 'Minutes', 'Seconds'].map((unit, i) => (
-              <div key={unit} className="flex flex-col items-center bg-white p-4 sm:p-6 shadow-[8px_8px_0_0_rgba(0,0,0,1)] border-4 border-black w-20 sm:w-28">
-                <span className="font-display font-black text-3xl sm:text-5xl leading-none">{[2, 14, 30, 45][i]}</span>
-                <span className="text-[10px] sm:text-xs font-bold uppercase tracking-widest mt-2">{unit}</span>
-              </div>
-            ))}
-          </div>
-        </div>
-      </section>
+      <DealBanner />
 
       {/* TRENDING BRANDS OR DEALS THAT DELIVER */}
       <section className="py-24 bg-background overflow-hidden">
@@ -123,28 +105,28 @@ export default function Home() {
           
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
             <ShoppableVideo 
-              videoSrc="https://www.w3schools.com/html/mov_bbb.mp4" 
+              videoSrc="https://videos.pexels.com/video-files/3255275/3255275-uhd_2560_1440_25fps.mp4" 
               posterSrc="https://images.unsplash.com/photo-1534438327276-14e5300c3a48?q=80&w=800&auto=format&fit=crop"
               product={featuredProducts[0]}
               title="Form Check"
               subtitle="Master the perfect deadlift form."
             />
             <ShoppableVideo 
-              videoSrc="https://www.w3schools.com/html/mov_bbb.mp4" 
+              videoSrc="https://videos.pexels.com/video-files/4754030/4754030-hd_1080_1920_30fps.mp4" 
               posterSrc="https://images.unsplash.com/photo-1517836357463-d25dfeac3438?q=80&w=800&auto=format&fit=crop"
               product={featuredProducts[1]}
               title="Pre-Workout Routine"
               subtitle="How the pros get ready."
             />
             <ShoppableVideo 
-              videoSrc="https://www.w3schools.com/html/mov_bbb.mp4" 
+              videoSrc="https://videos.pexels.com/video-files/6843232/6843232-hd_1080_1920_25fps.mp4" 
               posterSrc="https://images.unsplash.com/photo-1541534741688-6078c6bfb5c5?q=80&w=800&auto=format&fit=crop"
               product={featuredProducts[2]}
               title="Post-Workout Recovery"
               subtitle="Optimize your gains."
             />
             <ShoppableVideo 
-              videoSrc="https://www.w3schools.com/html/mov_bbb.mp4" 
+              videoSrc="https://videos.pexels.com/video-files/3196163/3196163-hd_1920_1080_25fps.mp4" 
               posterSrc="https://images.unsplash.com/photo-1574680096145-d05b474e2155?q=80&w=800&auto=format&fit=crop"
               product={featuredProducts[3]}
               title="Athlete Spotlight"
@@ -177,14 +159,36 @@ export default function Home() {
             </Link>
           </div>
           <div className="grid md:grid-cols-3 gap-8">
-            {[1,2,3].map(i => (
-              <Link href="/blogs/the-ultimate-guide" key={i} className="group cursor-pointer flex flex-col">
-                <div className="aspect-video w-full bg-muted border-2 border-border mb-6 group-hover:border-[var(--color-brand)] transition-colors flex items-center justify-center overflow-hidden relative">
-                  <img src={`https://images.unsplash.com/photo-${1500000000000 + i * 100000}?w=600&q=80`} alt="Blog" className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500 opacity-50" />
-                  <span className="absolute text-muted-foreground font-bold uppercase tracking-widest text-xs z-10 bg-background/80 px-3 py-1">Featured Article</span>
+            {[
+              {
+                id: 1,
+                slug: 'maximize-gains-recovery',
+                title: 'The Ultimate Guide to Maximize Your Gains and Recovery',
+                category: 'Nutrition & Training',
+                image: 'https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=600&q=80'
+              },
+              {
+                id: 2,
+                slug: 'creatine-myths-busted',
+                title: '5 Creatine Myths Busted: What Science Actually Says',
+                category: 'Supplements Science',
+                image: 'https://images.unsplash.com/photo-1593095948071-474c5cc2989d?w=600&q=80'
+              },
+              {
+                id: 3,
+                slug: 'perfect-preworkout',
+                title: 'How to Choose the Perfect Pre-Workout for Your Goals',
+                category: 'Buyer\'s Guide',
+                image: 'https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?w=600&q=80'
+              }
+            ].map(blog => (
+              <Link href={`/blogs/${blog.slug}`} key={blog.id} className="group cursor-pointer flex flex-col">
+                <div className="aspect-video w-full bg-muted border border-border mb-6 group-hover:border-[var(--color-brand)] transition-colors flex items-center justify-center overflow-hidden relative rounded-xl">
+                  <img src={blog.image} alt={blog.title} className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" />
+                  <span className="absolute top-4 left-4 font-bold uppercase tracking-widest text-[10px] z-10 bg-background/95 px-3 py-1 rounded">Featured</span>
                 </div>
-                <p className="text-xs text-[var(--color-brand)] font-bold uppercase tracking-widest mb-3">Nutrition & Training</p>
-                <h3 className="font-display font-bold text-2xl uppercase tracking-tighter mb-3 group-hover:text-[var(--color-brand)] transition-colors leading-tight line-clamp-2">The Ultimate Guide to Maximize Your Gains and Recovery</h3>
+                <p className="text-xs text-[var(--color-brand)] font-bold uppercase tracking-widest mb-3">{blog.category}</p>
+                <h3 className="font-display font-bold text-xl uppercase tracking-tighter mb-3 group-hover:text-[var(--color-brand)] transition-colors leading-tight line-clamp-2">{blog.title}</h3>
               </Link>
             ))}
           </div>

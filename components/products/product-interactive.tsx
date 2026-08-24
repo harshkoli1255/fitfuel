@@ -4,6 +4,7 @@ import { Heart, Minus, Plus, ShieldCheck, Truck } from "lucide-react"
 import { Product } from "@/types"
 import { Button } from "@/components/ui/button"
 import { useCart } from "@/lib/cart-context"
+import { useWishlist } from "@/lib/wishlist-context"
 
 import useEmblaCarousel from 'embla-carousel-react'
 import { ChevronLeft, ChevronRight } from 'lucide-react'
@@ -13,6 +14,13 @@ export function ProductInteractive({ product }: { product: Product }) {
   const [selectedVariant, setSelectedVariant] = useState(product.variants[0] || null)
   const [quantity, setQuantity] = useState(1)
   const { addItem } = useCart()
+  const { addFavorite, removeFavorite, isFavorite } = useWishlist()
+  const favorite = isFavorite(product.id)
+
+  const handleToggleFavorite = () => {
+    if (favorite) removeFavorite(product.id)
+    else addFavorite(product.id)
+  }
 
   const [mainRef, mainApi] = useEmblaCarousel({ loop: true })
   const [thumbRef, thumbApi] = useEmblaCarousel({
@@ -118,14 +126,12 @@ export function ProductInteractive({ product }: { product: Product }) {
       {/* INFO & ACTIONS */}
       <div className="w-full lg:w-1/2 flex flex-col">
         <div className="mb-6 border-b border-border pb-6">
-          <h1 className="font-display font-bold text-4xl sm:text-5xl uppercase tracking-tighter mb-3 leading-none">{product.name}</h1>
-          <div className="flex flex-wrap items-center gap-4 text-sm font-bold uppercase tracking-wider text-muted-foreground">
-            <span className="text-[var(--color-brand)]">Brand ID: {product.brandId}</span>
-            <span className="w-1 h-1 rounded-full bg-border"></span>
-            <div className="flex items-center gap-1 text-yellow-500">
-              {'★'.repeat(Math.floor(product.rating))}
-              {'☆'.repeat(5 - Math.floor(product.rating))}
-              <span className="text-muted-foreground ml-1">({product.reviewCount} Reviews)</span>
+          <p className="text-xs font-bold uppercase tracking-widest text-[var(--color-brand)] mb-2">{product.brandId.replace(/-/g, ' ').replace(/\b\w/g, l => l.toUpperCase())}</p>
+          <h1 className="font-display font-bold text-3xl sm:text-4xl tracking-tight mb-3 leading-tight">{product.name}</h1>
+          <div className="flex flex-wrap items-center gap-3 text-sm">
+            <div className="flex items-center gap-1">
+              <span className="text-yellow-400 text-base">{'★'.repeat(Math.floor(product.rating))}{'☆'.repeat(5 - Math.floor(product.rating))}</span>
+              <span className="text-muted-foreground text-xs font-medium">({product.reviewCount} Reviews)</span>
             </div>
           </div>
         </div>
@@ -202,7 +208,13 @@ export function ProductInteractive({ product }: { product: Product }) {
             <button onClick={() => setQuantity(quantity + 1)} className="px-5 py-4 hover:bg-muted transition-colors"><Plus className="h-4 w-4" /></button>
           </div>
           <Button size="lg" className="flex-1 rounded-none text-lg py-7 w-full" onClick={handleAddToCart}>Add to Cart</Button>
-          <Button size="icon" variant="outline" className="h-auto w-16 shrink-0 rounded-none border-2 py-4 hidden sm:flex"><Heart className="h-6 w-6" /></Button>
+          <button
+            onClick={handleToggleFavorite}
+            className={`h-auto w-16 shrink-0 border-2 py-4 hidden sm:flex items-center justify-center transition-colors ${favorite ? 'border-red-500 text-red-500 hover:bg-red-50' : 'border-border hover:border-[var(--color-brand)] hover:text-[var(--color-brand)]'}`}
+            aria-label={favorite ? 'Remove from wishlist' : 'Add to wishlist'}
+          >
+            <Heart className={`h-6 w-6 ${favorite ? 'fill-current' : ''}`} />
+          </button>
         </div>
         
         <Button size="lg" variant="secondary" className="w-full rounded-none text-lg mb-8 bg-foreground text-background hover:bg-foreground/90 py-7">Buy It Now</Button>

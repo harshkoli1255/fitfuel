@@ -4,6 +4,8 @@ import { Heart, Plus } from "lucide-react"
 import { Product } from "@/types"
 import { Button } from "@/components/ui/button"
 import { useCart } from "@/lib/cart-context"
+import { getPrimaryProductImage } from "@/lib/utils/product-media"
+import { useWishlist } from "@/lib/wishlist-context"
 
 interface ProductCardProps {
   product: Product
@@ -11,6 +13,10 @@ interface ProductCardProps {
 
 export function ProductCard({ product }: ProductCardProps) {
   const { addItem } = useCart()
+  const { addFavorite, removeFavorite, isFavorite } = useWishlist()
+  
+  const favorite = isFavorite(product.id)
+  
   const defaultVariant = product.variants[0]
   const hasDiscount = defaultVariant.compareAtPrice && defaultVariant.compareAtPrice > defaultVariant.price
   const discountPercentage = hasDiscount 
@@ -27,6 +33,15 @@ export function ProductCard({ product }: ProductCardProps) {
       quantity: 1,
       price: defaultVariant.price
     })
+  }
+
+  const handleToggleFavorite = (e: React.MouseEvent) => {
+    e.preventDefault()
+    if (favorite) {
+      removeFavorite(product.id)
+    } else {
+      addFavorite(product.id)
+    }
   }
 
   return (
@@ -46,18 +61,19 @@ export function ProductCard({ product }: ProductCardProps) {
       </div>
 
       {/* Wishlist Button */}
-      <button className="absolute top-4 right-4 z-10 text-muted-foreground hover:text-[var(--color-brand)] transition-colors">
-        <Heart className="h-5 w-5" />
+      <button 
+        onClick={handleToggleFavorite}
+        className={`absolute top-4 right-4 z-10 transition-colors ${favorite ? 'text-red-500 hover:text-red-600' : 'text-muted-foreground hover:text-[var(--color-brand)]'}`}
+      >
+        <Heart className={`h-5 w-5 ${favorite ? 'fill-current' : ''}`} />
       </button>
 
       {/* Image Container */}
-      <Link href={`/products/${product.slug}`} className="relative aspect-square w-full mb-4 overflow-hidden bg-white flex items-center justify-center p-4">
-        {product.media && product.media.length > 0 ? (
-          <img src={product.media[0].src} alt={product.media[0].alt || product.name} className="w-full h-full object-contain mix-blend-multiply group-hover:scale-105 transition-transform duration-300 ease-out" />
+      <Link href={`/products/${product.slug}`} className="relative aspect-square p-4 flex items-center justify-center bg-white group-hover:bg-white/80 transition-colors">
+        {product ? (
+          <img src={getPrimaryProductImage(product)} alt={product.name} className="w-full h-full object-contain mix-blend-multiply group-hover:scale-105 transition-transform duration-300 ease-out" />
         ) : (
-          <div className="absolute inset-0 flex items-center justify-center bg-muted/30">
-            <span className="text-muted-foreground font-medium text-sm">Image</span>
-          </div>
+          <span className="text-[10px] font-bold uppercase text-muted-foreground">Image</span>
         )}
       </Link>
 

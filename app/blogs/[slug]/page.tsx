@@ -1,15 +1,17 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
 
-export function generateMetadata({ params }: { params: { slug: string } }): Metadata {
+export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
+  const { slug } = await params;
   return {
-    title: `${params.slug.replace(/-/g, ' ').toUpperCase()} - FitFuel Blog`,
+    title: `${slug.replace(/-/g, ' ').toUpperCase()} - FitFuel Blog`,
     description: 'Read the latest health and fitness articles, supplement guides, and training tips.',
   };
 }
 
-export default function BlogPostPage({ params }: { params: { slug: string } }) {
-  const title = params.slug.replace(/-/g, ' ').toUpperCase();
+export default async function BlogPostPage({ params }: { params: Promise<{ slug: string }> }) {
+  const { slug } = await params;
+  const title = slug.replace(/-/g, ' ').toUpperCase();
 
   return (
     <div className="flex flex-col min-h-screen bg-gray-50">
@@ -20,7 +22,7 @@ export default function BlogPostPage({ params }: { params: { slug: string } }) {
             <span>/</span>
             <Link href="/blogs" className="hover:text-orange-500">News</Link>
             <span>/</span>
-            <span className="text-gray-900 font-medium capitalize">{params.slug.replace(/-/g, ' ')}</span>
+            <span className="text-gray-900 font-medium capitalize">{slug.replace(/-/g, ' ')}</span>
           </div>
           <h1 className="text-4xl font-bold text-gray-900 mb-4">{title}</h1>
           <div className="flex items-center gap-4 text-sm text-gray-500">

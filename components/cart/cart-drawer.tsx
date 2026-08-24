@@ -4,6 +4,7 @@ import { X, Minus, Plus, Trash2, ShoppingBag } from 'lucide-react'
 import { Button } from '@/components/ui/button'
 import { useCart } from '@/lib/cart-context'
 import { useEffect } from 'react'
+import { getPrimaryProductImage } from '@/lib/utils/product-media'
 
 export function CartDrawer() {
   const { items, cartTotal, isOpen, closeCart, updateQuantity, removeItem } = useCart()
@@ -45,8 +46,8 @@ export function CartDrawer() {
             items.map(item => (
               <div key={item.id} className="flex gap-4 border-b border-border pb-6 last:border-0 last:pb-0">
                 <div className="w-20 h-20 bg-white border border-border shrink-0 flex items-center justify-center p-1">
-                  {item.product.media && item.product.media.length > 0 ? (
-                    <img src={item.product.media[0].src} alt={item.product.name} className="w-full h-full object-contain mix-blend-multiply" />
+                  {item.product ? (
+                    <img src={getPrimaryProductImage(item.product)} alt={item.product.name} className="w-full h-full object-contain mix-blend-multiply" />
                   ) : (
                     <span className="text-[8px] font-bold uppercase text-muted-foreground">Image</span>
                   )}

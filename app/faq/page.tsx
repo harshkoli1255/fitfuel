@@ -11,32 +11,7 @@ export default function FAQPage() {
       <h1 className="text-4xl font-bold text-gray-900 mb-2 text-center uppercase tracking-tight">Frequently Asked Questions</h1>
       <p className="text-gray-500 text-center mb-12">Find answers to the most common questions about our products and services.</p>
 
-      <div className="space-y-6">
-        <div className="bg-white p-6 rounded-xl border shadow-sm">
-          <h2 className="text-xl font-bold text-gray-900 mb-3 flex items-center justify-between cursor-pointer">
-            How do I know my products are 100% authentic?
-            <svg className="w-5 h-5 text-gray-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
-            </svg>
-          </h2>
-          <p className="text-gray-600 leading-relaxed">
-            FitFuel guarantees 100% authenticity on all our supplements. We source directly from the brands or their official authorized importers in India. Every product comes with an importer seal, an intact batch number, an expiry date, and a GST retail invoice. You can verify the product using the scratch code on the manufacturer's website.
-          </p>
-        </div>
-
-        <div className="bg-white p-6 rounded-xl border shadow-sm">
-          <h2 className="text-xl font-bold text-gray-900 mb-3 flex items-center justify-between cursor-pointer">
-            What is your shipping policy and delivery time?
-            <svg className="w-5 h-5 text-gray-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
-            </svg>
-          </h2>
-          <p className="text-gray-600 leading-relaxed">
-            We offer fast and reliable shipping across India. Orders are typically processed within 24 hours. Depending on your location, delivery takes 2 to 5 business days. We partner with premium logistic services like Blue Dart, FedEx, and Delhivery to ensure your products arrive safely without any damage.
-          </p>
-        </div>
-
-        <div className="bg-white p-6 rounded-xl border shadow-sm">
+      <div className="space-y-6">        <div className="bg-white p-6 rounded-xl border shadow-sm">
           <h2 className="text-xl font-bold text-gray-900 mb-3 flex items-center justify-between cursor-pointer">
             Can I return or exchange a product?
             <svg className="w-5 h-5 text-gray-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">

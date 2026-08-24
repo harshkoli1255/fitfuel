@@ -5,6 +5,7 @@ import { AnnouncementBar } from "@/components/layout/announcement-bar";
 import { Header } from "@/components/layout/header";
 import { Footer } from "@/components/layout/footer";
 import { CartProvider } from "@/lib/cart-context";
+import { WishlistProvider } from "@/lib/wishlist-context";
 import { CartDrawer } from "@/components/cart/cart-drawer";
 
 const inter = Inter({
@@ -31,16 +32,19 @@ export default function RootLayout({
     <html
       lang="en"
       className={`${inter.variable} ${outfit.variable} h-full antialiased`}
+      suppressHydrationWarning
     >
-      <body className="min-h-full flex flex-col font-sans">
+      <body className="min-h-full flex flex-col font-sans" suppressHydrationWarning>
         <CartProvider>
-          <AnnouncementBar />
-          <Header />
-          <CartDrawer />
-          <main className="flex-1">
-            {children}
-          </main>
-          <Footer />
+          <WishlistProvider>
+            <AnnouncementBar />
+            <Header />
+            <CartDrawer />
+            <main className="flex-1">
+              {children}
+            </main>
+            <Footer />
+          </WishlistProvider>
         </CartProvider>
       </body>
     </html>

@@ -14,7 +14,12 @@ export function getProductBySlug(slug: string) {
 }
 
 export function getProductsByCategory(categoryId: string) {
-  return PRODUCTS.filter(p => p.categoryId === categoryId);
+  const { CATEGORIES } = require('./categories');
+  const targetCategories = [categoryId];
+  const children = CATEGORIES.filter((c: any) => c.parentId === categoryId).map((c: any) => c.id);
+  targetCategories.push(...children);
+  
+  return PRODUCTS.filter(p => targetCategories.includes(p.categoryId));
 }
 
 export function getProductsByBrand(brandId: string) {

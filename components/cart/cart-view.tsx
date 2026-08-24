@@ -3,6 +3,7 @@ import Link from "next/link"
 import { Button } from "@/components/ui/button"
 import { useCart } from "@/lib/cart-context"
 import { Minus, Plus, Trash2 } from "lucide-react"
+import { getPrimaryProductImage } from "@/lib/utils/product-media"
 
 export function CartView() {
   const { items, updateQuantity, removeItem, cartTotal } = useCart()
@@ -47,8 +48,8 @@ export function CartView() {
           {items.map(item => (
             <div key={item.id} className="flex gap-4 sm:gap-6 border-b border-border pb-8 last:border-0 last:pb-0">
               <div className="w-24 h-24 sm:w-32 sm:h-32 bg-white border border-border shrink-0 flex items-center justify-center p-2">
-                {item.product.media && item.product.media.length > 0 ? (
-                  <img src={item.product.media[0].src} alt={item.product.name} className="w-full h-full object-contain mix-blend-multiply" />
+                {item.product ? (
+                  <img src={getPrimaryProductImage(item.product)} alt={item.product.name} className="w-full h-full object-contain mix-blend-multiply" />
                 ) : (
                   <span className="text-[10px] uppercase font-bold text-muted-foreground">Image</span>
                 )}

@@ -1,3 +1,5 @@
+import Link from 'next/link'
+
 export default function AccountDashboard() {
   return (
     <div className="container py-16">
@@ -6,11 +8,11 @@ export default function AccountDashboard() {
       <div className="flex flex-col md:flex-row gap-12">
         <aside className="w-full md:w-64 shrink-0 border-2 border-border bg-card p-6 h-fit">
           <nav className="space-y-4 text-sm font-bold uppercase tracking-wider">
-            <a href="#" className="block text-[var(--color-brand)]">Dashboard</a>
-            <a href="#" className="block text-muted-foreground hover:text-foreground">Orders</a>
-            <a href="#" className="block text-muted-foreground hover:text-foreground">Wishlist</a>
-            <a href="#" className="block text-muted-foreground hover:text-foreground">Addresses</a>
-            <a href="#" className="block text-muted-foreground hover:text-foreground mt-8 pt-4 border-t-2 border-border">Logout</a>
+            <Link href="/account" className="block text-[var(--color-brand)]">Dashboard</Link>
+            <Link href="/account/orders" className="block text-muted-foreground hover:text-foreground">Orders</Link>
+            <Link href="/account/wishlist" className="block text-muted-foreground hover:text-foreground">Wishlist</Link>
+            <Link href="/account/addresses" className="block text-muted-foreground hover:text-foreground">Addresses</Link>
+            <Link href="/login" className="block text-muted-foreground hover:text-foreground mt-8 pt-4 border-t-2 border-border">Logout</Link>
           </nav>
         </aside>
 
