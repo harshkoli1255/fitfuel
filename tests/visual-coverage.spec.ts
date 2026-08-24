@@ -7,7 +7,7 @@ const routesPath = path.join(__dirname, '../reference-audit/route-verification.j
 const routesData = JSON.parse(fs.readFileSync(routesPath, 'utf8'));
 
 test.describe('Full 42 Route Coverage', () => {
-  const coverageReport = [];
+  const coverageReport: { url: string; status: number; verified: boolean; timestamp: string }[] = [];
   
   for (const route of routesData) {
     test(`Verify Route: ${route.url}`, async ({ page }) => {
